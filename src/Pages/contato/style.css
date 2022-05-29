@@ -1,0 +1,7 @@
+.container-contato{
+    height: calc(100vh-130px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

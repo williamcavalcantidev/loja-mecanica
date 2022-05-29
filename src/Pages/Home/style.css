@@ -1,0 +1,37 @@
+.container-home{
+    height: calc(100vh-130px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-home img{
+    width: 40%;
+}
+.container-home div{
+max-width: 500px;
+}
+
+.container-home div h1{
+  margin: 20px 0;
+}
+.texto{
+    line-height: 1.5;
+    margin: 20px 0;
+    max-width: 80%;  
+    color:red;
+    font-size: 20px;
+    
+    
+}
+.title_home{
+    color:blue
+}
+
+.localizacao{
+    background-color:rgb(113, 113, 247);
+    color: white;
+    border: none;
+    width: 150px;
+    border-radius: 25px;
+    height: 35px;
+}
